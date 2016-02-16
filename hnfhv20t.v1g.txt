@@ -1,0 +1,70 @@
+﻿Basics Project D:\Work\WS_J2SE commited
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   b.ser
+#	new file:   bin/A.class
+#	new file:   bin/AbClass.class
+#	new file:   bin/Anirban.class
+#	new file:   bin/ArraySumEg.class
+#	new file:   bin/B.class
+#	new file:   bin/Beta.class
+#	new file:   bin/Employee.class
+#	new file:   bin/MyClass.class
+#	new file:   bin/Papa.class
+#	new file:   bin/PapaBeta.class
+#	new file:   bin/StringManipulationEg.class
+#	new file:   bin/Test.class
+#	new file:   bin/javaBasic/Constructor/CopyConstructorExample.class
+#	new file:   bin/javaBasic/Constructor/DefaultConstructorExample.class
+#	new file:   bin/javaBasic/Constructor/Person.class
+#	new file:   bin/javaBasic/Constructor/Test.class
+#	new file:   bin/javaBasic/Static/ProgramWithoutMain.class
+#	new file:   bin/javaBasic/Static/StaticBlockExp.class
+#	new file:   bin/javaBasic/Static/StaticMethodExp.class
+#	new file:   bin/javaBasic/Static/StaticVarCounterExp.class
+#	new file:   bin/javaBasic/Static/StaticVariableExample.class
+#	new file:   bin/javaBasic/This/ThisUsedForCurrentClassVar.class
+#	new file:   bin/myAbstract.class
+#	new file:   bin/polymorphism/Animal.class
+#	new file:   bin/polymorphism/Cat.class
+#	new file:   bin/polymorphism/Dog.class
+#	new file:   bin/polymorphism/WorkWithAnimals.class
+#	new file:   bin/samole.class
+#	new file:   bin/threads/WaitNotify/Message.class
+#	new file:   bin/threads/WaitNotify/Notifier.class
+#	new file:   bin/threads/WaitNotify/WaitNotifyTest.class
+#	new file:   bin/threads/WaitNotify/Waiter.class
+#	new file:   src/Anirban.java
+#	new file:   src/ArraySumEg.java
+#	new file:   src/PapaBeta.java
+#	new file:   src/StringManipulationEg.java
+#	new file:   src/Test.java
+#	new file:   src/javaBasic/Constructor/CopyConstructorExample.java
+#	new file:   src/javaBasic/Constructor/DefaultConstructorExample.java
+#	new file:   src/javaBasic/Constructor/Test.java
+#	new file:   src/javaBasic/Static/ProgramWithoutMain.java
+#	new file:   src/javaBasic/Static/StaticBlockExp.java
+#	new file:   src/javaBasic/Static/StaticMethodExp.java
+#	new file:   src/javaBasic/Static/StaticVarCounterExp.java
+#	new file:   src/javaBasic/Static/StaticVariableExample.java
+#	new file:   src/javaBasic/This/ThisUsedForCurrentClassVar.java
+#	new file:   src/polymorphism/Animal.java
+#	new file:   src/polymorphism/Cat.java
+#	new file:   src/polymorphism/Dog.java
+#	new file:   src/polymorphism/WorkWithAnimals.java
+#	new file:   src/samole.java
+#	new file:   src/threads/WaitNotify/Message.java
+#	new file:   src/threads/WaitNotify/Notifier.java
+#	new file:   src/threads/WaitNotify/WaitNotifyTest.java
+#	new file:   src/threads/WaitNotify/Waiter.java
+#
+
